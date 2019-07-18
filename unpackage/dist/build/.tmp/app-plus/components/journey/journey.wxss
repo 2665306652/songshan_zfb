@@ -1,0 +1,104 @@
+.iconjiantou.data-v-3d4cf36e {
+  font-size: 20rpx;
+  color: #BEBEBE;
+  font-weight: normal;
+}
+.grace-news-list.data-v-3d4cf36e {
+  width: 100%;
+  overflow: hidden;
+}
+.introduce_text.data-v-3d4cf36e {
+  padding-top: 24rpx;
+  text-indent: 56rpx;
+  font-size: 28rpx;
+  color: #000000;
+  letter-spacing: 0;
+  text-align: left;
+  line-height: 50rpx;
+  margin-bottom: 30rpx;
+}
+.itemNews.data-v-3d4cf36e {
+  margin-top: 60rpx;
+  width: 100%;
+  padding: 0 30rpx;
+  padding-bottom: 12rpx;
+  border-bottom: 1rpx solid #EEEEEE;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.itemLogo.data-v-3d4cf36e {
+  background: #D8D8D8;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  width: 690rpx;
+  height: 298rpx;
+  overflow: hidden;
+}
+.itemLogo .item-logo.data-v-3d4cf36e {
+  width: 690rpx;
+  height: 240rpx;
+}
+.grace-news-title.data-v-3d4cf36e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.grace-news-title .item-introduce.data-v-3d4cf36e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  height: 94rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.grace-news-title .item-introduce .item-commonalityIcon.data-v-3d4cf36e {
+  background: #CE9D6D;
+  width: 4rpx;
+  height: 28rpx;
+  margin-top: 32rpx;
+  margin-right: 14rpx;
+}
+.grace-news-title .item-introduce .item-introduce_title.data-v-3d4cf36e {
+  line-height: 94rpx;
+  font-size: 36rpx;
+  color: #000000;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-align: left;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.grace-news-title .item-addmore.data-v-3d4cf36e {
+  line-height: 94rpx;
+  font-size: 24rpx;
+  color: #999999;
+  letter-spacing: 0;
+  text-align: right;
+}
+.item-text.data-v-3d4cf36e {
+  font-size: 28rpx;
+  color: #000000;
+  letter-spacing: 0;
+  text-align: left;
+  line-height: 50rpx;
+}
+

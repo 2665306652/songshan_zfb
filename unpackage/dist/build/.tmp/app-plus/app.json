@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/hotel/hotelList",
+    "pages/specialFood/specialFoodDetail",
+    "pages/specialFood/specialFoodList",
+    "pages/shop/shopList",
+    "pages/ticket/ticketList",
+    "pages/shop/shopDetail",
+    "pages/hotel/hotelDetail",
+    "pages/quanjin/quanjin",
+    "pages/scenicArea/scenicArea",
+    "pages/scenicArea/scenicareaParticulars",
+    "pages/tourGuide/tourGuide",
+    "pages/tourGuide/tourGuideParticulars",
+    "pages/consult/consult",
+    "pages/consult/consultParticulars",
+    "pages/culture/culture",
+    "pages/culture/cultureParticulars",
+    "pages/virtualTravel/virtualTravel",
+    "pages/journey/journey",
+    "pages/journey/journeyParticulars",
+    "pages/strategy/strategy",
+    "pages/strategy/strategyParticulars",
+    "pages/ticket/ticketDetail",
+    "pages/ticket/feizhuticket",
+    "pages/orderCenter/orderCenter",
+    "pages/nothing/nothing",
+    "pages/nothing/huerNothing",
+    "pages/orderCenter/orderDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "全民一脸游嵩山",
+    "transparentTitle": "none",
+    "backgroundColor": "#F8F8F8",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "songshan",
+  "compilerVersion": "2.0.1",
+  "usingComponents": {}
+}

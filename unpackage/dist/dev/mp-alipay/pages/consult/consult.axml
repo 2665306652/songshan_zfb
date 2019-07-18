@@ -1,0 +1,1 @@
+<view><crosswise-tab vue-id="1" tabList="{{categories}}" tabIndex="{{cateCurrentIndex}}" data-event-opts="{{[['^tabSelect',[['tabSelect']]]]}}" onTabSelect="__e" onVueInit="__l"></crosswise-tab><consult vue-id="2" itemList="{{artList}}" onVueInit="__l"></consult></view>

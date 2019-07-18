@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-icon": "/components/common/rate/uni-icon/uni-icon"
+  },
+  "component": true
+}

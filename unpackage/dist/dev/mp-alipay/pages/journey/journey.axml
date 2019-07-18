@@ -1,0 +1,1 @@
+<view><journey vue-id="1" itemList="{{artList}}" onVueInit="__l"></journey></view>

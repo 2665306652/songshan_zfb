@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "全民一脸游嵩山",
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

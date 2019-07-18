@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"_h1.",[1],"data-v-47819357 { line-height: ",[0,94],"; font-size: ",[0,36],"; color: #000000; font-weight: bold; letter-spacing: 0; text-align: left; }\n",])();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/scenicArea/scenicArea.wxml') } }));

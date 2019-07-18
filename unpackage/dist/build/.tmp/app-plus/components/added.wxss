@@ -1,0 +1,183 @@
+.centent.data-v-82981950 {
+  padding: 0 4.3%;
+  width: 91.4%;
+}
+.ipt_box.data-v-82981950 {
+  height: 125rpx;
+  margin-top: 40rpx;
+  border-bottom: 2rpx solid #e6e7e9;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.ipt_box .uni-title.data-v-82981950 {
+  font-size: 28rpx;
+  color: #666666;
+}
+.ipt_box .uni-list.data-v-82981950 {
+  margin-bottom: -10rpx;
+}
+.ipt_box .uni-input.data-v-82981950 {
+  margin-top: 16rpx;
+  width: 100%;
+  font-size: 32rpx;
+}
+.btn-submit.data-v-82981950 {
+  background: #ee7d31;
+  border: none;
+}
+.uni-btn-v.data-v-82981950 {
+  margin-top: 50rpx;
+}
+.newpage.data-v-82981950 {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+}
+.newpage .back_btn.data-v-82981950 {
+  width: 33rpx;
+  height: 33rpx;
+  margin-top: 30rpx;
+}
+.newpage .back_btn .iconfont.data-v-82981950 {
+  width: 33rpx;
+  height: 33rpx;
+}
+.newpage .title.data-v-82981950 {
+  font-size: 38rpx;
+  margin-top: 30rpx;
+  color: #333333;
+  font-weight: bold;
+  line-height: 53rpx;
+}
+.newpage .title text.data-v-82981950 {
+  font-size: 24rpx;
+  line-height: 33rpx;
+  color: #999999;
+  display: block;
+  font-weight: normal;
+}
+.bigestbox.data-v-82981950 {
+  position: fixed;
+  z-index: 9999999999999;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  top: 0;
+}
+.bigestbox .bigbox.data-v-82981950 {
+  position: fixed;
+  z-index: 999;
+  height: 66.2%;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+}
+.bigestbox .titlebox.data-v-82981950 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  z-index: 9999;
+  top: 0%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 110rpx;
+  -webkit-box-shadow: 0 4rpx 15rpx 0 rgba(0, 0, 0, 0.04);
+          box-shadow: 0 4rpx 15rpx 0 rgba(0, 0, 0, 0.04);
+}
+.bigestbox .titlebox .mid.data-v-82981950 {
+  font-size: 36rpx;
+  line-height: 110rpx;
+  font-weight: bold;
+  color: #333333;
+}
+.bigestbox .titlebox .org.data-v-82981950 {
+  font-size: 32rpx;
+  font-weight: bold;
+  height: 100%;
+  line-height: 110rpx;
+  color: #ee7d31;
+}
+.content .box.data-v-82981950 {
+  height: 248rpx;
+  border-bottom: 2rpx solid #e6e7e9;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  position: relative;
+}
+.content .box .imagebox.data-v-82981950 {
+  height: 35rpx;
+  width: 35rpx;
+}
+.content .box image.data-v-82981950 {
+  height: 35rpx;
+  width: 35rpx;
+}
+.content .box .mainbox.data-v-82981950 {
+  position: absolute;
+  left: 70rpx;
+}
+.content .box .mainbox .namebox.data-v-82981950 {
+  font-size: 32rpx;
+  color: #333333;
+  height: 45rpx;
+  line-height: 45rpx;
+  font-weight: bold;
+}
+.content .box .mainbox .smallbox.data-v-82981950 {
+  height: 34rpx;
+  font-size: 24rpx;
+  color: #666;
+  line-height: 34rpx;
+}
+.content .box .mainbox .smallbox text.data-v-82981950 {
+  margin-left: 32rpx;
+}
+.addnew.data-v-82981950 {
+  height: 10%;
+  -webkit-box-shadow: 0 -4rpx 10rpx 0 rgba(0, 0, 0, 0.05);
+          box-shadow: 0 -4rpx 10rpx 0 rgba(0, 0, 0, 0.05);
+  position: fixed;
+  bottom: 0;
+  z-index: 999;
+  font-weight: bold;
+  font-size: 36rpx;
+  color: #333333;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.addnew image.data-v-82981950 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 16rpx;
+}
+

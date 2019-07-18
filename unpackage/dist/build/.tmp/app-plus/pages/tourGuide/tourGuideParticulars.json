@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "向导详情",
+  "usingComponents": {
+    "mypopup": "/components/common/my-popup/my-popup",
+    "uni-rate": "/components/common/rate/uni-rate/uni-rate"
+  }
+}

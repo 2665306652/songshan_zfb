@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "嵩山向导",
+  "usingComponents": {
+    "tour-guide": "/components/tourGuide/tourGuide",
+    "sort-tab": "/components/common/pulldown/pulldown"
+  }
+}

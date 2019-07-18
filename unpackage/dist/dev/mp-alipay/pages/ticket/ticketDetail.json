@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "门票",
+  "usingComponents": {
+    "head-tab": "/components/common/head-tab/head-tab"
+  }
+}

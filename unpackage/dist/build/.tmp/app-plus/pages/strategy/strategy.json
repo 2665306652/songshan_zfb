@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "嵩山攻略",
+  "usingComponents": {
+    "strategy": "/components/strategy/strategy"
+  }
+}

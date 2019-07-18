@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "嵩山资讯",
+  "usingComponents": {
+    "crosswise-tab": "/components/crosswiseTab",
+    "consult": "/components/consult/consult-item"
+  }
+}

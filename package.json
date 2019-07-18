@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mini-antui": "^0.4.27",
+    "mini-html-parser2": "^0.1.4",
+    "moment": "^2.24.0",
+    "uni-request": "^1.0.2"
+  }
+}

@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 新增 */
+.iconfont {
+	margin-left:15rpx;
+	font-size:24rpx;
+}
+.selectOperation {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	width: 100%;
+	height: 90rpx;
+	border-top: 1px solid rgba(238, 238, 238, 0.65);
+}
+.filter-content-footer-cancel {
+	width: 50%;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 36rpx;
+	color: block;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.filter-content-footer-confirm {
+	background-color: #D39C66;
+	width: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 36rpx;
+	color: #FFFFFF;
+}
+.showSubListTwo {
+	padding: 0 30rpx;
+	padding-right: 200rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.select_title {
+	height: 70rpx;
+	line-height: 70rpx;
+	font-size: 30rpx;
+	color: #666666;
+}
+.select_confirm {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	width: 100%;
+}
+.select_confirm_item {
+	width: 140rpx;
+	height: 60rpx;
+	background-color: #ccc;
+	color: block;
+	font-size: 28rpx;
+	margin-right: 30rpx;
+	margin-bottom: 30rpx;
+	text-align: center;
+	line-height: 60rpx;
+}
+.selectactives {
+	color: #D39C66;
+	border: 1rpx solid #D39C66;
+	background-color: #fff;
+}
+.hideA {
+	height: -webkit-calc(100% - 310rpx);
+	height: calc(100% - 310rpx);
+}
+.mli {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding: 22rpx 40rpx;
+	border-bottom: 1px solid rgba(238, 238, 238, 0.65);
+}
+.lione {
+	background-color: #fff;
+	padding: 10rpx 0;
+	padding-bottom: 0;
+}
+.uni_14 {
+	font-size: 32rpx;
+	line-height: 45rpx;
+}
+.list_boxs {
+	background-color: rgba(84, 80, 80, 0.48);
+	position: fixed;
+	height: -webkit-calc(100%);
+	height: calc(100%);
+	width: 100%;
+	z-index: 88;
+	-webkit-transform: translateY(-123%);
+	    -ms-transform: translateY(-123%);
+	        transform: translateY(-123%);
+}
+.list_boxs2 {
+	background-color: rgba(84, 80, 80, 0.48);
+	position: fixed;
+	height: -webkit-calc(100%);
+	height: calc(100%);
+	width: 100%;
+	z-index: 88;
+	-webkit-transform: translateY(0);
+	    -ms-transform: translateY(0);
+	        transform: translateY(0);
+}
+.ii {
+	width: 30rpx;
+	height: 30rpx;
+	display: block;
+	margin-left: 12rpx;
+	background-size: contain;
+}
+.actives,
+.gou {
+	color: #D39C66;
+}
+.ibox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.top_kbox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background-color: #FFFFFF;
+	padding: 28rpx 5%;
+	width: 90%;
+	z-index: 99;
+	border-bottom: 1px solid rgba(238, 238, 238, 0.65);
+}
+.boxa {
+	position: relative;
+	border-bottom: 1px solid rgba(238, 238, 238, 0.65);
+}
+.boxa.fixed {
+	position: fixed;
+	width: 100%;
+	z-index: 1024;
+}
+

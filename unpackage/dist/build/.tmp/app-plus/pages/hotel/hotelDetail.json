@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "酒店详情",
+  "usingComponents": {
+    "uni-popup": "/components/common/uni-popup/uni-popup",
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

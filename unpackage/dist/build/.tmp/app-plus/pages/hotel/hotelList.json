@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "酒店/民宿",
+  "usingComponents": {
+    "head-tab": "/components/common/head-tab/head-tab",
+    "sort-tab": "/components/common/sort-tab/sort-tab"
+  }
+}

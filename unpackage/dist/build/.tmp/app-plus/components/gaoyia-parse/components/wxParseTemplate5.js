@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/gaoyia-parse/components/wxParseTemplate5"],{"0438":function(e,n,t){"use strict";t.r(n);var a=t("32d6"),o=t.n(a);for(var r in a)"default"!==r&&function(e){t.d(n,e,function(){return a[e]})}(r);n["default"]=o.a},"32d6":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a=function(){return t.e("components/gaoyia-parse/components/wxParseTemplate6").then(t.bind(null,"2d71"))},o=function(){return t.e("components/gaoyia-parse/components/wxParseImg").then(t.bind(null,"9beb"))},r=function(){return t.e("components/gaoyia-parse/components/wxParseVideo").then(t.bind(null,"8683"))},u=function(){return t.e("components/gaoyia-parse/components/wxParseAudio").then(t.bind(null,"ebcd"))},s=function(){return t.e("components/gaoyia-parse/components/wxParseTable").then(t.bind(null,"c2b6"))},i={name:"wxParseTemplate5",props:{node:{}},components:{wxParseTemplate:a,wxParseImg:o,wxParseVideo:r,wxParseAudio:u,wxParseTable:s},methods:{wxParseATap:function(e){var n=e.currentTarget.dataset.href;if(n){var t=this.$parent;while(!t.preview||"function"!==typeof t.preview)t=t.$parent;t.navigate(n,e)}}}};n.default=i},a854:function(e,n,t){"use strict";t.r(n);var a=t("c7bb"),o=t("0438");for(var r in o)"default"!==r&&function(e){t.d(n,e,function(){return o[e]})}(r);var u=t("2877"),s=Object(u["a"])(o["default"],a["a"],a["b"],!1,null,null,null);n["default"]=s.exports},c7bb:function(e,n,t){"use strict";var a=function(){var e=this,n=e.$createElement;e._self._c},o=[];t.d(n,"a",function(){return a}),t.d(n,"b",function(){return o})}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/gaoyia-parse/components/wxParseTemplate5-create-component',
+    {
+        'components/gaoyia-parse/components/wxParseTemplate5-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("a854"))
+        })
+    },
+    [['components/gaoyia-parse/components/wxParseTemplate5-create-component']]
+]);                

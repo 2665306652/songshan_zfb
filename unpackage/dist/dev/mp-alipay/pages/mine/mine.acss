@@ -1,0 +1,103 @@
+.bg_box.data-v-780dd4f8 {
+  position: relative;
+  height: 544rpx;
+  width: 100%;
+}
+.bg_box image.data-v-780dd4f8 {
+  width: 100%;
+  height: 544rpx;
+}
+.bg_box .message.data-v-780dd4f8 {
+  height: 120rpx;
+  position: absolute;
+  left: 32rpx;
+  top: 220rpx;
+  width: 686rpx;
+}
+.bg_box .message image.data-v-780dd4f8 {
+  height: 120rpx;
+  width: 120rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.bg_box .message text.data-v-780dd4f8 {
+  font-size: 36rpx;
+  color: #fff;
+  position: absolute;
+  left: 140rpx;
+  top: 40rpx;
+}
+.bg_box .content.data-v-780dd4f8 {
+  width: 686rpx;
+  height: 240rpx;
+  position: absolute;
+  background-color: #fff;
+  left: 32rpx;
+  top: 385rpx;
+  -webkit-border-radius: 15rpx;
+          border-radius: 15rpx;
+  -webkit-box-shadow: 0 7px 27px 0 rgba(0, 0, 0, 0.12);
+          box-shadow: 0 7px 27px 0 rgba(0, 0, 0, 0.12);
+}
+.bg_box .content .icon_box.data-v-780dd4f8 {
+  margin: 48rpx;
+  height: 122rpx;
+  float: left;
+}
+.bg_box .content .icon_box image.data-v-780dd4f8 {
+  width: 70rpx;
+  height: 70rpx;
+}
+.bg_box .content .icon_box text.data-v-780dd4f8 {
+  display: block;
+  width: 70rpx;
+  text-align: center;
+  color: #333333;
+  font-size: 28rpx;
+  margin-top: 12rpx;
+}
+.tabbar.data-v-780dd4f8 {
+  position: fixed;
+  bottom: 0;
+  width: 750rpx;
+  height: 98rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+  z-index: 99999999999;
+  background-color: #fff;
+  -webkit-box-shadow: 0 -4px 10px 0 rgba(0, 0, 0, 0.05);
+          box-shadow: 0 -4px 10px 0 rgba(0, 0, 0, 0.05);
+}
+.tabbar .iconbox.data-v-780dd4f8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 20rpx;
+}
+.tabbar .iconbox image.data-v-780dd4f8 {
+  height: 40rpx;
+  width: 40rpx;
+}
+.tabbar .iconbox .text.data-v-780dd4f8 {
+  font-size: 22rpx;
+  color: #999;
+}
+.tabbar .iconbox .in.data-v-780dd4f8 {
+  color: #333;
+}
+

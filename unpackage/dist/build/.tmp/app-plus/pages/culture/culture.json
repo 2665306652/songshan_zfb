@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "文化嵩山",
+  "usingComponents": {
+    "crosswise-tab": "/components/crosswiseTab",
+    "culture": "/components/culture/culture-item"
+  }
+}

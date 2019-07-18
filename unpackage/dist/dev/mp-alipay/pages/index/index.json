@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "全民一脸游嵩山",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tabs",
+    "uni-popup": "/components/uni-popup/show_hw"
+  }
+}

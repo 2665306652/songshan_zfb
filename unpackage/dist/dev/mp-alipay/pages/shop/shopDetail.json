@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "购物详情",
+  "usingComponents": {
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

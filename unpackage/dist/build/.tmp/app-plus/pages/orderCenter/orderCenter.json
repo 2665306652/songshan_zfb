@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "head-tab": "/components/common/head-tab/head-tab",
+    "create-comment": "/components/createComment"
+  }
+}

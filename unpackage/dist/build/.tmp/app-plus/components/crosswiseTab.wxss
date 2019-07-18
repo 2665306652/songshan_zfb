@@ -1,0 +1,43 @@
+.tab.data-v-d90be6ee {
+  min-width: 100%;
+}
+.tab .addStyle.data-v-d90be6ee {
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around;
+}
+.tab .srollStyle.data-v-d90be6ee {
+  border-bottom: 1rpx solid #EEEEEE;
+}
+.tab .tab_main.data-v-d90be6ee {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 34rpx;
+  text-align: center;
+}
+.tab .tab_main .tab_main_item.data-v-d90be6ee {
+  min-width: 25%;
+  padding: 0 20rpx;
+  height: 97rpx;
+  line-height: 80rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.tab .tab_main .tab_main_item > view.data-v-d90be6ee {
+  line-height: 90rpx;
+  text-align: center;
+  width: 100%;
+}
+.tab .tab_main .tab_main_item > view.tab_active.data-v-d90be6ee {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #D39C66;
+  border-bottom: 4rpx solid #D39C66;
+}
+

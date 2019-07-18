@@ -1,0 +1,1 @@
+<view><public-details vue-id="1" itemList="{{artList}}" onVueInit="__l"></public-details></view>

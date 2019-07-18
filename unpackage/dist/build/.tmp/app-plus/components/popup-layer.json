@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "reserve-date": "/components/reserve-date/reserve-date",
+    "create-comment": "/components/createComment",
+    "lz-numinput": "/components/lz-numinput/lz-numinput",
+    "added": "/components/added"
+  },
+  "component": true
+}

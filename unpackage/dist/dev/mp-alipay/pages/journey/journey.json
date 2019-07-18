@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "嵩山行程",
+  "usingComponents": {
+    "journey": "/components/journey/journey"
+  }
+}

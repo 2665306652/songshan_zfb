@@ -1,0 +1,9 @@
+{
+  "defaultTitle": "门票",
+  "usingComponents": {
+    "yn-gallery": "/components/YnComponents/ynGallery/ynGallery",
+    "popup-layer": "/components/popup-layer",
+    "uni-popup": "/components/common/uni-popup/uni-popup",
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "嵩山行程",
+  "usingComponents": {
+    "journey": "/components/journey/journey"
+  }
+}

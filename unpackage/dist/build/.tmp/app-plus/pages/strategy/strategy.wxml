@@ -1,0 +1,1 @@
+<view><strategy vue-id="1" itemList="{{artList}}" bind:__l="__l"></strategy></view>

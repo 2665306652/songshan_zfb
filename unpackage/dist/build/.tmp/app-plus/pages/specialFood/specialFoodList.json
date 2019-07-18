@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "嵩山美食",
+  "usingComponents": {
+    "sort-tab": "/components/common/sort-tab/sort-tab"
+  }
+}

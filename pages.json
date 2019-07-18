@@ -1,0 +1,220 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "全民一脸游嵩山",
+				"navigationBarTextStyle": "white",
+				"transparentTitle": "always"
+			}
+		}, {
+			"path": "pages/mine/mine",
+			"style": {}
+		},
+		{
+			"path": "pages/hotel/hotelList",
+			"style": {
+				"navigationBarTitleText": "酒店/民宿"
+			}
+		},
+		{
+			"path": "pages/specialFood/specialFoodDetail",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "美食详情"
+			}
+		},
+		{
+			"path": "pages/specialFood/specialFoodList",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山美食"
+			}
+		},
+		{
+			"path": "pages/shop/shopList",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山特产"
+			}
+		},
+		{
+			"path": "pages/ticket/ticketList",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "票务"
+			}
+		},
+		{
+			"path": "pages/shop/shopDetail",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "购物详情"
+			}
+		},
+		{
+			"path": "pages/hotel/hotelDetail",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "酒店详情"
+			}
+		},
+
+		{
+			"path": "pages/quanjin/quanjin",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "虚拟旅游"
+			}
+		},
+
+		{
+			"path": "pages/scenicArea/scenicArea",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山景区"
+			}
+		}, {
+			"path": "pages/scenicArea/scenicareaParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}, {
+			"path": "pages/tourGuide/tourGuide",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山向导"
+			}
+		}, {
+			"path": "pages/tourGuide/tourGuideParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "向导详情"
+			}
+		}, {
+			"path": "pages/consult/consult",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山资讯"
+			}
+		}, {
+			"path": "pages/consult/consultParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}, {
+			"path": "pages/culture/culture",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "文化嵩山"
+			}
+		}, {
+			"path": "pages/culture/cultureParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}, {
+			"path": "pages/virtualTravel/virtualTravel",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}, {
+			"path": "pages/journey/journey",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山行程"
+			}
+		},
+		{
+			"path": "pages/journey/journeyParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}, {
+			"path": "pages/strategy/strategy",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "嵩山攻略"
+			}
+		},
+		{
+			"path": "pages/strategy/strategyParticulars",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "全民一脸游嵩山"
+			}
+		}
+
+		, {
+			"path": "pages/ticket/ticketDetail",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationBarTitleText": "门票"
+			}
+		}, {
+			"path": "pages/ticket/feizhuticket",
+			"style": {
+				"navigationBarTitleText": "门票"
+			}
+		}
+
+		, {
+			"path": "pages/orderCenter/orderCenter",
+			"style": {
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "pages/nothing/nothing",
+			"style": {
+				"navigationBarTextStyle": "black"
+			}
+		}, 
+		{
+			"path": "pages/nothing/huerNothing",
+			"style": {
+				"navigationBarTextStyle": "black"
+			}
+		}
+		, {
+			"path": "pages/orderCenter/orderDetail",
+			"style": {
+
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "全民一脸游嵩山",
+		"transparentTitle": "none",
+		"backgroundColor": "#F8F8F8",
+		"navigationBarBackgroundColor": "#FFFFFF"
+	}
+	// "tabBar": {
+	//       "color": "#999999",
+	//       "selectedColor": "#333333",
+	//       "borderStyle": "black",
+	//       "backgroundColor": "#ffffff",
+	//       "list": [{
+	//           "pagePath": "pages/index/index",
+	//           "iconPath": "static/assents/home1.png",
+	//           "selectedIconPath": "static/assents/home2.png",
+	//           "text": "首页"
+	//       }, {
+	//           "pagePath": "pages/callcar/callcar",
+	//           "iconPath": "static/assents/car1.png",
+	//           "selectedIconPath": "static/assents/car1.png",
+	//           "text": "呼我出行"
+	//       },
+	// {
+	//     "pagePath": "pages/mine/mine",
+	//     "iconPath": "static/assents/mine1.png",
+	//     "selectedIconPath": "static/assents/mine2.png",
+	//     "text": "我的"
+	// }]
+	//   }
+}

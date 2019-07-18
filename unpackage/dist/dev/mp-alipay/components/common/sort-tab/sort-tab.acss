@@ -1,0 +1,105 @@
+
+.showMask {
+	height: -webkit-calc(100% - 310rpx);
+	height: calc(100% - 310rpx);
+}
+.hideMask {
+	height: 0;
+}
+.mli {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding: 22rpx 0;
+	border-bottom: 1px solid rgba(238, 238, 238, 0.65);
+}
+.lione {
+	background-color: #fff;
+	padding: 10rpx 40rpx;
+}
+.uni_14 {
+	font-size: 32rpx;
+	line-height: 45rpx;
+}
+.list_boxs {
+	background-color: rgba(84, 80, 80, 0.48);
+	position: fixed;
+	height: -webkit-calc(100%);
+	height: calc(100%);
+	width: 100%;
+	z-index: 88;
+	-webkit-transform: translateY(-123%);
+	    -ms-transform: translateY(-123%);
+	        transform: translateY(-123%);
+}
+.list_boxs2 {
+	background-color: rgba(84, 80, 80, 0.48);
+	position: fixed;
+	height: -webkit-calc(100%);
+	height: calc(100%);
+	width: 100%;
+	z-index: 88;
+	-webkit-transform: translateY(0);
+	    -ms-transform: translateY(0);
+	        transform: translateY(0);
+}
+.ii {
+	width: 30rpx;
+	height: 30rpx;
+	display: block;
+	margin-left: 12rpx;
+	background-size: contain;
+}
+.actives,
+.gou {
+	color: #D39C66;
+}
+.ibox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.top_kbox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background-color: #FFFFFF;
+	padding: 28rpx 5%;
+	width: 90%;
+	z-index: 99;
+}
+.boxa {
+	position: relative;
+	border-bottom: 1px solid rgba(238, 238, 238, 0.65);
+	height: auto;
+}
+.boxa.fixed {
+	position: fixed;
+	width: 100%;
+	z-index: 1024;
+	height: auto;
+}
+

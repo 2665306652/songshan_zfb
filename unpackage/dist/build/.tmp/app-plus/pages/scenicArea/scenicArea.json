@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "嵩山景区",
+  "usingComponents": {
+    "crosswise-tab": "/components/crosswiseTab",
+    "scenic-area-item": "/components/scenicArea-components/scenicArea-item",
+    "u-parse": "/components/gaoyia-parse/parse"
+  }
+}

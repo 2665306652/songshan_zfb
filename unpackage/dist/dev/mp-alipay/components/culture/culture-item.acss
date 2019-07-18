@@ -1,0 +1,78 @@
+.iconshijian.data-v-1618596c,
+.iconchakan.data-v-1618596c {
+  font-size: 20rpx;
+  margin-right: 10rpx;
+  color: #BEBEBE;
+  font-weight: normal;
+}
+.consult.data-v-1618596c {
+  width: 100%;
+  overflow: hidden;
+}
+.item.data-v-1618596c {
+  height: 242rpx;
+  padding: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1rpx solid #EEEEEE;
+}
+.itemLogo.data-v-1618596c {
+  height: 182rpx;
+  width: 280rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  overflow: hidden;
+  background: #D8D8D8;
+}
+.itemLogo image.data-v-1618596c {
+  height: 182rpx;
+  width: 280rpx;
+}
+.introduc.data-v-1618596c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding-left: 30rpx;
+  padding-right: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.title.data-v-1618596c {
+  font-size: 30rpx;
+  color: #333333;
+  line-height: 42rpx;
+  max-height: 130rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.introducText.data-v-1618596c {
+  padding-top: 10rpx;
+  height: 30rpx;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.introduc_data.data-v-1618596c {
+  height: 30rpx;
+  font-size: 22rpx;
+  color: #999999;
+  line-height: 30rpx;
+  margin-right: 45rpx;
+}
+.introduc_browse.data-v-1618596c {
+  height: 30rpx;
+  font-size: 22rpx;
+  color: #999999;
+  line-height: 30rpx;
+  margin-right: 45rpx;
+}
+
